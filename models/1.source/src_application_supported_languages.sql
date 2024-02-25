@@ -1,0 +1,3 @@
+SELECT
+*
+FROM application_supported_languages
